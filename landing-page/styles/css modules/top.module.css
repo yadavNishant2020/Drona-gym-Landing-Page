@@ -1,0 +1,21 @@
+.background{
+    background-image: url(../../public/img/gym.jpg);
+    height: 100vh;
+    width: 100vw;
+    z-index: -1;
+    position: fixed;
+    top: 0px;
+    filter: blur(2px);
+    display: flex;
+
+}
+
+.img{
+background-image: url(../../public/img/intro.png);
+height: 80vh;
+background-repeat: no-repeat;
+right: 0px;
+margin-left: 400px;
+margin-top: 70px;
+filter: grayscale(70%)
+}
