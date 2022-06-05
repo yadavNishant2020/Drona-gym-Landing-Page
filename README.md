@@ -1,2 +1,1 @@
-# Landing-Page
- Landing page in nextjs
+This is a landing page of sitara fitness.
