@@ -1,36 +1,39 @@
-.background{
+.background {
     background-image: url(../../public/img/gym.png);
     height: 100vh;
     width: 100vw;
     z-index: -1;
     position: fixed;
     top: 0px;
-    /* filter: blur(2px); */
     display: flex;
 
 }
 
-.img{
-/* background-image: url(../../public/img/intro.png); */
-height: 80vh;
-background-repeat: no-repeat;
-right: 0px;
-margin-left: 500px;
-margin-top: 70px;
-/* filter: grayscale(70%); */
-z-index: 2;
+.img {
+    height: 70vh;
+    background-repeat: no-repeat;
+    right: 0px;
+    margin-top: 22%;
+    z-index: 2;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@1,700&display=swap');
-.heading{
+
+.heading {
     font-family: 'Bai Jamjuree', sans-serif;
-    font-size: 120px;
-    margin: 110px 150px;
-    width: 500px;
+    font-size: 105px;
+    margin-top: 160px;
     color: rgb(255, 255, 255);
     font-weight: 700;
     text-shadow: 2px 2px #f7f4f4;
 }
-.blk{
+
+.btn{
+height: 60px;
+width: 200px;
+font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.blk {
     color: black;
 }
