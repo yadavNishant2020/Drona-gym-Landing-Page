@@ -5,10 +5,11 @@
     z-index: -1;
     position: fixed;
     top: 0px;
-    display: flex;
 
 }
-
+.cont{
+    height: 100vh;
+}
 .img {
     height: 70vh;
     background-repeat: no-repeat;

@@ -26,6 +26,7 @@ function Top() {
       </Navbar>
       {/* background */}
       <div className={Topcss.background}></div>
+      <div className={Topcss.cont}>
       <Container className="container-top">
         <Row className="section-top">
           <Col xs={12} md={6} className="section-top-right">
@@ -47,7 +48,7 @@ function Top() {
           
         </Row>
       </Container>
-     
+      </div>
     </>
   );
 }
