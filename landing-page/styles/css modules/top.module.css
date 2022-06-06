@@ -25,7 +25,7 @@
     margin-top: 160px;
     color: rgb(255, 255, 255);
     font-weight: 700;
-    text-shadow: 2px 2px #f7f4f4;
+    text-shadow: 4px 4px #212529;
 }
 
 .btn{
@@ -36,4 +36,6 @@ font-family: 'Bai Jamjuree', sans-serif;
 
 .blk {
     color: black;
+    text-shadow: 4px 4px #b2bbc4;
+
 }

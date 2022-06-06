@@ -7,7 +7,7 @@ function Top() {
     {/* Navbar */}
       <Navbar fixed="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">Sitara Fitness</Navbar.Brand>
+          <Navbar.Brand href="#home">SITARA Fitness</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">

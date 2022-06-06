@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Top from '../components/Top'
+import Services from '../components/Services'
 export default function Home() {
   return (
     <div >
@@ -17,6 +18,7 @@ export default function Home() {
 
       <main >
         <Top/>
+        <Services/>
       </main>
       <footer >
       <script src="https://unpkg.com/react/umd/react.production.min.js" crossorigin></script>
