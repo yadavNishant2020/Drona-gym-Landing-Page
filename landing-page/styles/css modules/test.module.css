@@ -1,0 +1,43 @@
+.container{
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.541);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+
+}
+.innerContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    top: 0px;
+
+}
+.heading{
+    font-family: 'Bai Jamjuree', sans-serif;
+    padding-top: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 4rem;
+    color: white;
+    text-shadow: 2px 2px #8D8D8D;
+}
+.carousel {
+    width: 50vw;
+}
+.carousel img{
+    width: 100px;
+}
+
+.caption{
+    background-color: rgba(0, 0, 0, 0.436);
+    border-radius: 20px;
+}
+.carousel  p{
+color: rgb(255, 255, 255);
+font-size: 20px;}
+.carousel  h3{
+    color: rgb(255, 255, 255);
+font-size: 25px;
+}

@@ -7,13 +7,17 @@
 
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@1,700&display=swap');
+
 .heading{
     font-family: 'Bai Jamjuree', sans-serif;
     padding-top: 80px;
     font-weight: 700;
     letter-spacing: 2px;
     font-size: 4rem;
-    text-shadow: 1px 2px #ffffff;
+    color: white;
+    text-shadow: 2px 2px #8D8D8D;
+
 
 }
 .container {
@@ -25,12 +29,13 @@
     align-items: center;
     margin-bottom: 100px ;
     margin-top: 50px;
+    border-radius: 10px;
 
 }
 
 .item {
     display: flex;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     flex-direction: column;
     align-items: center;

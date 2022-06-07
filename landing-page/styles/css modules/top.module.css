@@ -1,12 +1,16 @@
 .background {
-    background-image: url(../../public/img/gym.png);
+    background-image: url(../../public/img/body.png);
+background-size: cover;
     height: 100vh;
     width: 100vw;
     z-index: -1;
     position: fixed;
     top: 0px;
+    background-repeat: no-repeat;
+
 
 }
+
 .cont{
     height: 100vh;
 }
@@ -22,11 +26,11 @@
 
 .heading {
     font-family: 'Bai Jamjuree', sans-serif;
-    font-size: 105px;
+    font-size: 80px;
     margin-top: 160px;
     color: rgb(255, 255, 255);
     font-weight: 700;
-    text-shadow: 4px 4px #212529;
+    text-shadow: 2px 2px #8D8D8D;
 }
 
 .btn{
@@ -36,7 +40,7 @@ font-family: 'Bai Jamjuree', sans-serif;
 }
 
 .blk {
-    color: black;
-    text-shadow: 4px 4px #b2bbc4;
+    color: #8D8D8D;
+    text-shadow: 2px 2px #dfe2e6;
 
 }

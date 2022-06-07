@@ -4,7 +4,7 @@ import Servicecss from "../styles/css modules/services.module.css";
 function Services() {
   return (
     <div className={Servicecss.main}>
-      <h1 className={Servicecss.heading}>Services</h1>
+      <h1 className={Servicecss.heading}>SERVICES</h1>
       <div className={Servicecss.container}>
         <div className={Servicecss.item}>
           <img src="../img/sprt.png" alt="" />
