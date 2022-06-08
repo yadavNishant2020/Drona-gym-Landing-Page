@@ -28,6 +28,9 @@
 }
 .carousel img{
     width: 100px;
+    border-radius: 20px;
+    height: 60vh;
+
 }
 
 .caption{

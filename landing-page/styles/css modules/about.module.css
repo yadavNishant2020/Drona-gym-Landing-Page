@@ -1,0 +1,54 @@
+.container{
+    height: 100vh;
+        background-color: rgb(0, 0, 0);
+        padding-bottom: 50px;
+        overflow: hidden;
+    
+}
+
+.heading{
+    font-family: 'Bai Jamjuree', sans-serif;
+    padding-top: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 4rem;
+    color: white;
+    text-shadow: 2px 2px #8D8D8D;
+    display: flex;
+    justify-content: center;
+}
+
+.innerContainer{
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
+
+.innerContainer img{
+    width: 70vh;
+    border-radius: 50px;
+    margin-left: 150px;
+
+}
+.innerContainer h1 {
+    padding-bottom: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+.innerContainer h3 {
+    padding-bottom: 15px;
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+
+.innerContainer p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+.content{
+    color: white;
+    width: 50vw;
+    margin-left: 8%;
+}

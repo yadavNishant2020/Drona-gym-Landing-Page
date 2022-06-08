@@ -10,7 +10,7 @@ function Test() {
           <Carousel fade className={Testcss.carousel} controls='false' >
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
+                className="d-block w-100 "
                 src="../img/p1.jpg"
                 alt="First slide"
               />
