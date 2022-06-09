@@ -1,1 +1,1 @@
-This is a landing page of sitara fitness.
+This is a landing page of Drona Gym.
