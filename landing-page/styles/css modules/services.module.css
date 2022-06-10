@@ -51,3 +51,16 @@
     width: 30%;
     margin-bottom: 20px;
 }
+
+/* RESPONSIVE CODE FOR MOBILE */
+@media only screen and (max-width: 600px) {
+    .heading {
+        font-size: 2rem;
+        padding-top: 25px;
+    }
+    .container {
+        flex-direction: column;
+        margin-bottom: 50px ;
+        margin-top: 25px;
+    }
+}

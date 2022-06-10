@@ -9,7 +9,7 @@ function About() {
 
       <div className={AboutCss.innerContainer}>
         <div className={AboutCss.content}>
-          <h1>Who We Are And What We Do</h1>
+          <h1><b>Who We Are And What We Do</b></h1>
           <h3>Trainers Who Care</h3>
           <p>
             Our trainers take your fitness goals seriously. We understand that
@@ -25,7 +25,7 @@ function About() {
             goals. We will show you the best equipment to use and will work with
             you to keep you on track and motivated to reach your goals.
           </p>
-          <h3>Your Success Is Our Goal</h3>
+          <h3 >Your Success Is Our Goal</h3>
           <p>
             We understand that adapting new fitness habits is difficult and
             often fails. Our goal is to change your view on fitness, so that it
