@@ -7,9 +7,6 @@
     position: fixed;
     top: 0px;
     background-repeat: no-repeat;
-    
-
-
 }
 
 .cont{
@@ -54,7 +51,7 @@ font-family: 'Bai Jamjuree', sans-serif;
         background-image: url(../../public/img/body-mob.png);
     }
     .btn{
-        margin-bottom: 40px;
+        margin-top: 30px;
         }
         
 }
@@ -63,7 +60,6 @@ font-family: 'Bai Jamjuree', sans-serif;
     .heading {
         font-size: 2rem;
         padding-top: 25px;
-
     }
     
 .innerContainer {

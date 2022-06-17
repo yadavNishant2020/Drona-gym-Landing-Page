@@ -57,7 +57,7 @@
 /* RESPONSIVE CODE FOR MOBILE */
 @media only screen and (max-width: 600px) {
     .heading {
-        font-size: 2rem;
+        font-size: 60px;
         padding-top: 25px;
     }
 .container{
@@ -71,7 +71,7 @@
 .innerContainer img {
     width: 70vh;
     border-radius: 50px;
-    margin-left: 25px;
+    margin-left: 40px;
 
 }
 
